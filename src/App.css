@@ -190,30 +190,30 @@ span.navbar-text {
 	transform: translate3d(0, calc(var(--scrollTop) / 5.6), 0);
 }
 /************ Skills Css ************/
-.tail {
+.tale {
   padding: 0 0 50px 0;
   position: relative;
   background-image: url('./assets/img/dungeon.png');
   background-size: cover;
 }
-.tail-bx {
+.tale-bx {
   border-radius: 64px;
   text-align: center;
   padding: 60px 50px;
   margin-top: 60px;
   margin: 20px;
 }
-.tail h2 {
+.tale h2 {
 	font-size: 45px;
 	font-weight: 700;
 }
 
-.tail-slider {
+.tale-slider {
   width: 80%;
   margin: 0 auto;
   position: relative;
 }
-.tail-slider .item img {
+.tale-slider .item img {
   width: 250px;
   height: auto;
   margin: 0 auto 15px auto;
